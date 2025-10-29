@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "Nice-Gadgets-store",
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
   "dependencies": {
@@ -8,11 +8,16 @@
     "classnames": "^2.5.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-dropdown": "^1.11.0",
+    "react-responsive": "^10.0.1",
+    "react-rewards": "^2.1.0",
     "react-router-dom": "^6.25.1",
-    "react-transition-group": "^4.4.5"
+    "react-swipeable": "^7.0.2",
+    "react-transition-group": "^4.4.5",
+    "swiper": "^12.0.3"
   },
   "devDependencies": {
-    "@mate-academy/scripts": "^1.8.5",
+    "@mate-academy/scripts": "^2.1.2",
     "@mate-academy/students-ts-config": "*",
     "@mate-academy/stylelint-config": "*",
     "@types/node": "^20.14.10",
