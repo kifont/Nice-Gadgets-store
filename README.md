@@ -31,6 +31,38 @@ Live website: [Nice Gadgets Store](https://kifont.github.io/Nice-Gadgets-store)
 - **Stylelint** (v16.7.0) – SCSS linting
 - **GitHub** - Hosting and deployment
 
+## Features
+
+- **Responsive Design**  
+  Optimized for various screen sizes, with breakpoints at 320px, 640px, 1200px, and 1440px.
+
+- **Navigation**  
+  Uses `react-router-dom` for seamless page transitions and preserving URL-based search parameters.
+
+- **Favorites & Cart**  
+  Allows users to add products to favorites or cart, with automatic total price calculation.
+
+- **Product Filtering**  
+  Enables filtering by category, capacity and color within the product catalog.
+
+- **Sorting**  
+  Products can be sorted by year, price, or alphabetically.
+
+- **Pagination**  
+  Displays large product lists with customizable items per page and visible page count.
+
+- **Sticky Header**  
+  Keeps the header fixed during scrolling for better navigation.
+
+- **Scroll to Top Button**  
+  Lets users quickly return to the top of the page.
+
+- **Theme Toggle**
+   Supports switching between light and dark themes for improved accessibility and user preference.
+
+- **Loader**  
+  Shows loading indicators to improve user experience during data fetches.
+
 ## Getting started
 Follow these steps to set up the project locally:
 
